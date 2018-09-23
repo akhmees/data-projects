@@ -1,1 +1,1 @@
-# data projecs
+# data projects
