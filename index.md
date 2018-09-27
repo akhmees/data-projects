@@ -1,5 +1,5 @@
 ## Projects
-[Kickstarter Exploratory Data Analysis:](iKickstarter_Exploratory_Data_Analysis.html) In this project, we will use **R** and apply exploratory data analysis techniques to explore relationships in one variable to multiple variables and to explore a selected data set for distributions, outliers, and anomalies. The dataset for this project is coming from Kickstarter, an American public-benefit corporation based in Brooklyn, New York, that maintains a global crowdfunding platform focused on creativity. 
+[Kickstarter Exploratory Data Analysis:](Kickstarter_Exploratory_Data_Analysis.html) In this project, we will use **R** and apply exploratory data analysis techniques to explore relationships in one variable to multiple variables and to explore a selected data set for distributions, outliers, and anomalies. The dataset for this project is coming from Kickstarter, an American public-benefit corporation based in Brooklyn, New York, that maintains a global crowdfunding platform focused on creativity. 
 
 [Analyzing The Stroop Effect:](Analyzing_the_Stroop_Effect.html) In this project, we will investigate a classic phenomenon from experimental psychology called the Stroop Effect. We will learn a little bit about the experiment, create a hypothesis regarding the outcome of the task, then go through the task ourselves
 
